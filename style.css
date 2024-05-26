@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'MedievalSharp';
+    background-image: url(https://img.freepik.com/free-vector/seamless-pattern-pineapples_179234-309.jpg?t=st=1716718989~exp=1716722589~hmac=3b37fac585b7e74a83e64abfd9f01cc512583baa25dea71b4f0a3ac8d84251a2&w=740);
+    height: 50px;
+    color: whitesmoke;
+}
